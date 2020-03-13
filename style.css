@@ -1,0 +1,80 @@
+.container {
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    font-size: 100px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.btn1{
+    padding: 30px 85px;
+    background-color: #A52A2A;
+    color: #ffffff;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.btn2{
+    padding: 30px 80px;
+    background-color: rgb(67, 151, 140);
+    color: #ffffff;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+.btn3{
+    display: none;
+    padding: 30px 78.33px;
+    background-color: rgb(24, 133, 20);
+    color: #ffffff;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+.btn4{
+    display: none;
+    padding: 30px 76.83px;
+    background-color: rgb(31, 19, 146);
+    color: #ffffff;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.container2 {
+    display: none;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+.title .one{
+    margin-right: 15px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+.title .two{
+    margin-right: 15px;
+    margin-left: 60px;
+    font-size: 35px;
+}
+.title .three{
+    margin-right: 15px;
+    margin-left: 52px;
+    font-size: 35px;
+}
+ol {
+    width: 164px;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+ol span{
+    display: inline-block;
+    margin-left: 88px;
+}
